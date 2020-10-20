@@ -26,7 +26,7 @@ Update android gradle plugin.
 
 ## Workaround for this issue
 
-Change to `classpath 'com.android.tools.build:gradle:3.5.0'` in `android/build.gradle` .
+Change back to `classpath 'com.android.tools.build:gradle:3.5.0'` in `android/build.gradle` . Do not update the plugin. 
 
 
 
